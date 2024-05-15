@@ -27,27 +27,27 @@ Despite significant advancements in healthcare, patients and caregivers often fa
 
 #### Accessibility:
 
-Geographical Barriers:- Countless individuals in rural or underserved communities do not have access to the right healthcare information and services.
+* Geographical Barriers:- Countless individuals in rural or underserved communities do not have access to the right healthcare information and services.
 
-Scheduling and Wait Times:- Most of the time, the conventional healthcare systems are faced with long waits and problems of making an appointment.
+* Scheduling and Wait Times:- Most of the time, the conventional healthcare systems are faced with long waits and problems of making an appointment.
 
 #### Information Overload:
 
-Complexity:- Medical information can be a labyrinth of complexity and the average person will find it hard to comprehend.
+* Complexity:- Medical information can be a labyrinth of complexity and the average person will find it hard to comprehend.
 
-Credibility:- Who can forget that patients are not able to give a reliable and accurate health information online?
+* Credibility:- Who can forget that patients are not able to give a reliable and accurate health information online?
 
 #### Engagement:
 
-Lack of Interaction:- Most healthcare websites are not well designed to attract and retain users, they provide just the information in the static form, for instance, no interactive tools or personal experiences.
+* Lack of Interaction:- Most healthcare websites are not well designed to attract and retain users, they provide just the information in the static form, for instance, no interactive tools or personal experiences.
 
 #### Mental Health:
 
-Stigma and Access:- Mental health services usually are not taken seriously and physical health services are much easier to access.
+* Stigma and Access:- Mental health services usually are not taken seriously and physical health services are much easier to access.
 
 #### Chronic Disease Management:
 
-Ongoing Support:- Patients with chronic diseases need the regular monitoring and the help which is usually not there in the health care settings.
+* Ongoing Support:- Patients with chronic diseases need the regular monitoring and the help which is usually not there in the health care settings.
 
 ### Opportunity:
  
@@ -55,35 +55,33 @@ Creating a healthcare website that addresses these problems presents a significa
  
 #### Enhanced Accessibility:
  
-Telemedicine Integration:- Offering online counselling services to the patients who are located in the far away places is one of the ways to make the patients more reachable.
+* Telemedicine Integration:- Offering online counselling services to the patients who are located in the far away places is one of the ways to make the patients more reachable.
  
-Online Appointment Scheduling:- The patrons will be able to schedule appointments easily and thus, the waiting time will be reduced.
+* Online Appointment Scheduling:- The patrons will be able to schedule appointments easily and thus, the waiting time will be reduced.
   
 #### Reliable Information:
  
-Curated Content:- The website should provide verified, simple-to-understand medical information from the sources which can be trusted.
+* Curated Content:- The website should provide verified, simple-to-understand medical information from the sources which can be trusted.
  
-Health Education:- Give educational materials, for instance, it can be articles, videos, or webinars on the various health issues.
+* Health Education:- Give educational materials, for instance, it can be articles, videos, or webinars on the various health issues.
  
 #### User Engagement:
  
-Interactive Tools:- The features that can be included are the symptom checkers, health risk assessments, and health recommendations that are tailored to the individual.
+* Interactive Tools:- The features that can be included are the symptom checkers, health risk assessments, and health recommendations that are tailored to the individual.
  
-Health Chat-Bot:- Think about an AI-based chatbot that can answer the common health questions and give you the needed support.
+* Health Chat-Bot:- Think about an AI-based chatbot that can answer the common health questions and give you the needed support.
  
 #### Mental Health Support:
   
-Resources and Counseling: Provide mental health services, such as the briefings, self-help tools, and virtual counseling services.
+* Resources and Counseling: Provide mental health services, such as the briefings, self-help tools, and virtual counseling services.
  
-Community Support: Set up forums and support groups to help the users who are in the same situation as you with the health issues.
+* Community Support: Set up forums and support groups to help the users who are in the same situation as you with the health issues.
  
 #### Chronic Disease Management:
  
-Monitoring and Reminders:- Show the way to the monitoring of health status, the reminder of medications, and the notification of appointments.
- 
-Patient Portals Allow patients to visit their health records, test results, and treatment plans on the Internet.
- 
+* Monitoring and Reminders:- Show the way to the monitoring of health status, the reminder of medications, and the notification of appointments.
 
+* Patient Portals :- Allow patients to visit their health records, test results, and treatment plans on the Internet.
  
  #### Key Features of the Proposed Healthcare Website
  
@@ -100,10 +98,7 @@ Patient Portals Allow patients to visit their health records, test results, and 
 * Contact Us: One of the features is a contact form and information for users to contact healthcare providers directly.
 
 ### Project Description :
- Medpill website is well designed and best befitted for Medical purpose such as Hospital supplies, Clinics, Surgical website, Clinical Laboratory, Health Care centers, etc.
-This website makes your medical needs easy to keep all the records related to patients and doctors suggestions for the treatment.
-Medpill website is a platform that provides various healthcare services through the internet. These services can include consultations with medical professionals, online prescriptions, ordering medical supplies, and access to medical information and resources. Online healthcare websites can be useful for individuals who are unable to physically visit a healthcare facility due to geographical, physical or other constraints, as well as those who prefer the convenience of accessing healthcare services from the comfort of their homes. Additionally, online healthcare websites can help reduce the workload of healthcare providers and minimize waiting times for patients. It's important to note that while online healthcare websites can provide convenience, they should never replace the need for in-person medical care in emergency situations.
-
+project is a website for healthcare which is a comprehensive one and it is designed to tackle the main problems which patients and caregivers have to face in their access to and the management of the healthcare services. Telemedicine integration, online appointment scheduling, curated health information, interactive tools, mental health support, and chronic disease management are the main components of the online medical center. Through making the platform more accessible, giving credible information, involving users, and aiding in the health and fitness of chronic disease management, we will boost the general healthcare experiences and outcomes.
 
 ### Screenshots :
 ![image](https://github.com/Ravik30/Future-Ready-Talent-Virtual-Internship-Project/assets/96697080/6b5ecfa1-9c91-49bb-9d43-44b57db113d2)

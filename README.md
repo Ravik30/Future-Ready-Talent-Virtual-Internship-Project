@@ -1,7 +1,7 @@
 # Future-Ready-Talent-Virtual-Internship-Project
 This is the our final project created for Microsoft Future Ready Talent Virtual Internship Program
 ## Healthcare Website with Healthbot
-Project Link :
+Project Link : https://ravik30.github.io/Future-Ready-Talent-Virtual-Internship-Project/
 
 Demo Video :
 
@@ -10,7 +10,7 @@ Web Technologies used : HTML, CSS, JS.
 IDE : VS-Code
 
 ### Primary Azure Technology :
-Static Web Apps , Healthbot
+Static Web Apps , Health bot
 
 ### Industry :
 Health

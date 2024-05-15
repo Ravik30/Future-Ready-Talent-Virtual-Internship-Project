@@ -16,7 +16,7 @@ Static Web Apps , Healthbot
 Health
 
 ### Project Title :
-Health Care Services
+Health Care
 
 ### Problem Statement/Opportunity :
 Access to health information: Online health websites provide easy access to health information for people who might not have access to this information otherwise. This can include people who live in remote areas or those who have limited access to healthcare resources.

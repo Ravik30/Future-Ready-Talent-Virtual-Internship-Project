@@ -19,11 +19,35 @@ Health
 Health Care
 
 ### Problem Statement/Opportunity :
-Access to health information: Online health websites provide easy access to health information for people who might not have access to this information otherwise. This can include people who live in remote areas or those who have limited access to healthcare resources.
+The healthcare industry is going through a fast change which is resulted by the technology progress and the new patients expectations. Traditionally, the healthcare delivery is viewed as a slow and inaccessible process. The increasing need for the digital solutions that offer the full, accessible, and easy-to-use healthcare information and services is the latest trend. This is the idea of a healthcare website which will be created to solve the problems and to cater to the demands of today's healthcare consumers.
 
-Convenience: Online health websites provide a convenient way for people to access health information and resources from the comfort of their own homes. This can save time and money compared to traditional healthcare services.
+#### Problem Statement
 
-Empowerment: Online health websites can empower people to take control of their own health and make informed decisions about their healthcare. This can lead to better health outcomes and a higher quality of life.
+Despite significant advancements in healthcare, patients and caregivers often face several challenges:Despite significant advancements in healthcare, patients and caregivers often face several challenges:
+
+#### Accessibility:
+
+Geographical Barriers: Countless individuals in rural or underserved communities do not have access to the right healthcare information and services.
+
+Scheduling and Wait Times: Most of the time, the conventional healthcare systems are faced with long waits and problems of making an appointment.
+
+Information Overload:
+
+Complexity: Medical information can be a labyrinth of complexity and the average person will find it hard to comprehend.
+
+Credibility: Who can forget that patients are not able to give a reliable and accurate health information online?
+
+Engagement:
+
+Lack of Interaction: Most healthcare websites are not well designed to attract and retain users, they provide just the information in the static form, for instance, no interactive tools or personal experiences.
+
+Mental Health:
+
+Stigma and Access: Mental health services usually are not taken seriously and physical health services are much easier to access.
+
+Chronic Disease Management:
+
+Ongoing Support: Patients with chronic diseases need the regular monitoring and the help which is usually not there in the health care settings.
 
 ### Project Description :
  Medpill website is well designed and best befitted for Medical purpose such as Hospital supplies, Clinics, Surgical website, Clinical Laboratory, Health Care centers, etc.

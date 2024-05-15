@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Health Blog</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <style>
+    /* General Styles */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    section {
+      padding: 2rem;
+      background-color: #f8f9fa;
+    }
+
+    .heading {
+      text-align: center;
+      margin-bottom: 2rem;
+      font-size: 2rem;
+    }
+
+    .heading span {
+      color: rgba(18, 172, 142, 0.9);
+    }
+
+    /* Blogs Section */
+    .blogs .box-container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 2rem;
+    }
+
+    .blogs .box {
+      background-color: white;
+      padding: 1rem;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s;
+    }
+
+    .blogs .box:hover {
+      transform: translateY(-5px);
+    }
+
+    .blogs .box .image img {
+      width: 100%;
+      height: auto;
+    }
+
+    .blogs .box .content {
+      padding: 1rem 0;
+    }
+
+    .blogs .box .icon a {
+      display: inline-block;
+      margin-right: 1rem;
+      color: #666;
+      font-size: 0.875rem;
+      transition: color 0.3s;
+    }
+
+    .blogs .box .icon a:hover {
+      color: rgba(18, 172, 142, 0.9);
+    }
+
+    .blogs .box h3 {
+      font-size: 1.25rem;
+      margin: 1rem 0 0.5rem;
+    }
+
+    .blogs .box p {
+      color: #666;
+      font-size: 0.875rem;
+      line-height: 1.5;
+    }
+
+    .blogs .box .btn {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.5rem 1rem;
+      background-color: rgba(18, 172, 142, 0.9);
+      color: white;
+      text-decoration: none;
+      transition: background-color 0.3s;
+    }
+
+    .blogs .box .btn:hover {
+      background-color: rgba(18, 172, 142, 0.9);
+    }
+
+    /* Responsive Design */
+    @media (max-width: 1024px) {
+      .blogs .box-container {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    @media (max-width: 768px) {
+      .blogs .box-container {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .heading {
+        font-size: 1.5rem;
+      }
+      .blogs .box .icon a {
+        font-size: 0.75rem;
+      }
+      .blogs .box h3 {
+        font-size: 1rem;
+      }
+      .blogs .box p {
+        font-size: 0.75rem;
+      }
+      .blogs .box .btn {
+        padding: 0.5rem;
+        font-size: 0.875rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<section class="blogs" id="blogs">
+  <h1 class="heading"> Our <span>Blogs</span> </h1>
+  <div class="box-container">
+
+    <div class="box">
+      <div class="image">
+        <img src="image/blog-1.jpg" alt="">
+      </div>
+      <div class="content">
+        <div class="icon">
+          <a href="#"> <i class="fas fa-calendar"></i> 11 July, 2023 </a>
+          <a href="#"> <i class="fas fa-user"></i> by Pradnesh Bhowmik </a>
+        </div>
+        <h3>5 Tips for a Healthy Lifestyle</h3>
+        <p>Eating a balanced diet, staying active, and managing stress are just a few ways to maintain a healthy lifestyle. Discover more tips in this blog.</p>
+        <a href="#" class="btn"> Read More <span class="fas fa-chevron-right"></span> </a>
+      </div>
+    </div>
+
+    <div class="box">
+      <div class="image">
+        <img src="image/blog-2.jpg" alt="">
+      </div>
+      <div class="content">
+        <div class="icon">
+          <a href="#"> <i class="fas fa-calendar"></i> 11 August, 2023 </a>
+          <a href="#"> <i class="fas fa-user"></i> by Satvik Thakur </a>
+        </div>
+        <h3>The Importance of Mental Health</h3>
+        <p>Your mental well-being is just as important as your physical health. Learn why taking care of your mental health is crucial in this blog. Explore the significance.</p>
+        <a href="#" class="btn"> Read More <span class="fas fa-chevron-right"></span> </a>
+      </div>
+    </div>
+
+    <div class="box">
+      <div class="image">
+        <img src="image/blog-3.jpg" alt="">
+      </div>
+      <div class="content">
+        <div class="icon">
+          <a href="#"> <i class="fas fa-calendar"></i> 13 August, 2023 </a>
+          <a href="#"> <i class="fas fa-user"></i> by Priya Gupta </a>
+        </div>
+        <h3>Healthy Eating: A Beginner's Guide</h3>
+        <p>Are you new to healthy eating? This blog provides beginners with essential tips and insights to kickstart their journey towards nutritious meals.</p>
+        <a href="#" class="btn"> Read More <span class="fas fa-chevron-right"></span> </a>
+      </div>
+    </div>
+    
+    <div class="box">
+      <div class="image">
+        <img src="image/blog-4.jpg" alt="">
+      </div>
+      <div class="content">
+        <div class="icon">
+          <a href="#"> <i class="fas fa-calendar"></i> 21 August, 2023 </a>
+          <a href="#"> <i class="fas fa-user"></i> by Jeet Sagar </a>
+        </div>
+        <h3>Exercise Tips for a Healthier You</h3>
+        <p>Stay active and fit with these exercise tips. Whether you're a beginner or a fitness enthusiast, there's something for everyone in this blog.</p>
+        <a href="#" class="btn"> Read More <span class="fas fa-chevron-right"></span> </a>
+      </div>
+    </div>
+
+    <div class="box">
+      <div class="image">
+        <img src="image/blog-5.jpg" alt="">
+      </div>
+      <div class="content">
+        <div class="icon">
+          <a href="#"> <i class="fas fa-calendar"></i> 25 August, 2023 </a>
+          <a href="#"> <i class="fas fa-user"></i> by Jay Singh </a>
+        </div>
+        <h3>The Power of Yoga and Meditation</h3>
+        <p>Discover the profound benefits of incorporating yoga and meditation into your daily routine. Achieve physical and mental harmony with these practices.</p>
+        <a href="#" class="btn"> Read More <span class="fas fa-chevron-right"></span> </a>
+      </div>
+    </div>
+
+    <div class="box">
+      <div class="image">
+        <img src="image/blog-6.jpg" alt="">
+      </div>
+      <div class="content">
+        <div class="icon">
+          <a href="#"> <i class="fas fa-calendar"></i> 11 September, 2023 </a>
+          <a href="#"> <i class="fas fa-user"></i> by Alex Henry </a>
+        </div>
+        <h3>Sleep Your Way to Better Health</h3>
+        <p>Quality sleep is vital for overall health. Learn about the importance of a good night's sleep and discover tips for getting the rest you deserve.</p>
+        <a href="#" class="btn"> Read More <span class="fas fa-chevron-right"></span> </a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+</body>
+</html>

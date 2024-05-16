@@ -23,7 +23,7 @@ The healthcare industry is going through a fast change which is resulted by the 
 
 #### Problem Statement
 
-Despite significant advancements in healthcare, patients and caregivers often face several challenges:Despite significant advancements in healthcare, patients and caregivers often face several challenges:
+Despite significant advancements in healthcare, patients and caregivers often face several challenges.
 
 #### Accessibility:
 

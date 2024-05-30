@@ -117,4 +117,8 @@ project is a website for healthcare which is a comprehensive one and it is desig
 
 
 
+## certificate
 
+![Capture2](https://github.com/Ravik30/Future-Ready-Talent-Virtual-Internship-Project/assets/96697080/131fd86e-deb2-4e41-a049-9a120e4ebb8e)
+
+![IMG_20240524_115638](https://github.com/Ravik30/Future-Ready-Talent-Virtual-Internship-Project/assets/96697080/fb380d2c-71ea-45f8-ac99-96f26d2653f7)
